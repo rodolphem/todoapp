@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Todo</string>
+
+    <string-array name="urgency">
+        <item>Low urgency</item>
+        <item>Normal urgency</item>
+        <item>High urgency</item>
+    </string-array>
+</resources>
